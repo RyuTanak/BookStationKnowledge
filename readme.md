@@ -21,7 +21,7 @@ const InformationModel = InformationRepository.getInformationModel(db);
 ```
 
 #### 日付が最大かつNoが最大のレコード1行を取得  
-
+(dateとnoで複合キーとなっているため、成り立つ)  
 ```js
 const InformationModel = InformationRepository.getInformationModel(db);
 
@@ -54,3 +54,7 @@ const InformationModel = InformationRepository.getInformationModel(db);
         return await InformationModel.count();
     //以下省略
 ```
+
+## npmインストール時のエラー  
+
+エラー対処法記事→[こちら](https://qiita.com/ASLA/items/527f5c47ae60bc51cc9a)  
