@@ -8,7 +8,7 @@ IPアドレスとは、ネットワーク上の自分を示す場所のことで
 https://wa3.i-3-i.info/word172.html  
 
 # 前提知識  
-WAN、LAN、パブリック・プライベート  
+WAN、LAN  
 
 # 自分のIPアドレスを知る  
 
