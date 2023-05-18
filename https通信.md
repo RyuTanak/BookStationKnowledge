@@ -7,6 +7,9 @@ https://localhost:8080/public/pages/signin.html
 
 これって何？  
 
+# 前提知識  
+共通鍵暗号方式、公開鍵暗号方式  
+
 # https通信とは  
 
 以下のサイトを読んでみた。  
